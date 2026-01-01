@@ -1,4 +1,4 @@
-# 🚀 Harvee Assessment — User Management System (MERN)
+# 🚀User Management System (MERN)
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![React](https://img.shields.io/badge/React-18-blue)
